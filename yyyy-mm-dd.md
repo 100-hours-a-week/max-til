@@ -1,8 +1,8 @@
-# TIL Template
+# TIL
 
 ## Date: YYYY-MM-DD
 
-### Scrum
+## Scrum
 - 학습 목표 1 : 아침 스크럼에 작성한 내용 붙여넣기
 - 학습 목표 2
 - 학습 목표 3
