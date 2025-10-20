@@ -23,7 +23,7 @@
 - 오늘의 학습 경험에 대한 자유로운 생각이나 느낀 점을 기록합니다.
 - 성공적인 점, 개선해야 할 점, 새롭게 시도하고 싶은 방법 등을 포함할 수 있습니다.
 
-### 참고 자료 및 링크
+### References and Links
 - [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](URL)
 - [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](URL)
 - [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](URL)
