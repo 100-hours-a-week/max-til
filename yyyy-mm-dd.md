@@ -25,6 +25,7 @@
 
 ### 참고 자료 및 링크
 - [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](URL)
+- [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](URL)
 - [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](URL)
 - [링크 제목](URL)
 - [링크 제목](URL)
