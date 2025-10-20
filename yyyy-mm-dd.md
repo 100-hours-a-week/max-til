@@ -8,13 +8,13 @@
 - 학습 목표 3
 
 ### Today What I Learn
-#### Title 1: 주제에 대한 설명
+#### Learn 1: 주제에 대한 설명
 - 상세 내용 1
 - 상세 내용 2
 - 상세 내용 3
 
 ### Today I Work
-#### Title 1:
+#### Work 1:
 
 
 ### Today's Assignment and How to Solve
