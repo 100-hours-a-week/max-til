@@ -41,5 +41,5 @@ YOLO, IoU, 이미지 처리 바이블 교재 공부
 - 25.10.30 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-30.md](https://github.com/100-hours-a-week/max-til/blob/main/Oct/2025-10-30.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-30](https://velog.io/@swoo64/2025-10-30)  
 라벨링 하는 법
 
-- 25.10.30 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-30.md](https://github.com/100-hours-a-week/max-til/blob/main/Oct/2025-10-30.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-30](https://velog.io/@swoo64/2025-10-30)  
+- 25.10.31 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-10-31.md](https://github.com/100-hours-a-week/max-til/blob/main/Oct/2025-10-31.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-31](https://velog.io/@swoo64/2025-10-31)  
 딥러닝에서의 베이지안 정리
