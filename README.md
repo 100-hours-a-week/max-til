@@ -4,6 +4,13 @@
 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [Baekjoon_CodingTest_jsw](https://github.com/Max-JI64/Baekjoon_CodingTest_jsw)
 
+# 과제
+- 6주차 과제 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [6주차 과제](https://github.com/100-hours-a-week/max-til/tree/main/Assignment/week6)
+- 7주차 과제 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [7주차 과제](https://github.com/100-hours-a-week/max-til/tree/main/Assignment/week7)
+
+# 일별 수업 학습
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [일별 수업 학습](https://github.com/100-hours-a-week/max-til/tree/main/Daily_class)
+
 # 2025년 10월
 ## [10월 3주차]
 - 25.10.15 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/100-hours-a-week/max-til/blob/main/Oct/2025-10-15.md) [2025-10-15.md](https://github.com/100-hours-a-week/max-til/blob/main/Oct/2025-10-15.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-10-15](https://velog.io/@swoo64/2025-10-15)  
