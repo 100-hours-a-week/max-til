@@ -63,3 +63,6 @@ YOLO, IoU, 이미지 처리 바이블 교재 공부
 
 - 25.11.06 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-06.md](https://github.com/100-hours-a-week/max-til/blob/main/Nov/2025-11-06.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-06](https://velog.io/@swoo64/2025-11-06)  
 트랜스포머
+
+- 25.11.10 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-10.md](https://github.com/100-hours-a-week/max-til/blob/main/Nov/2025-11-10.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-10](https://velog.io/@swoo64/2025-11-10)  
+트랜스포머와 ResNet-101 구현 및 학습
