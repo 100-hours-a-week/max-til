@@ -70,3 +70,7 @@ YOLO, IoU, 이미지 처리 바이블 교재 공부
 
 - 25.11.12 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-12.md](https://github.com/100-hours-a-week/max-til/blob/main/Nov/2025-11-12.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-12](https://velog.io/@swoo64/2025-11-12)  
 트랜스포머, 비전 트랜스포머의 구현과 실습
+
+### [11월 4주차]
+- 25.11.26 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) [2025-11-26.md](https://github.com/Max-JI64/Today-I-Learn/blob/main/2025-TIL/Nov/2025-11-26.md) ![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white) [2025-11-26](https://velog.io/@swoo64/2025-11-26)  
+클라이언트와 서버, FastAPI, HTTP 개념 정리
